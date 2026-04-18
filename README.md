@@ -168,7 +168,8 @@ This project is for academic purposes and can be freely modified.
 
 ## 👩‍💻 Authors
 
-* **Manyata Khothari**
 * **Niharika Mathur**
+* **Manyata Khothari**
+  
 
 
